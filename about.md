@@ -3,9 +3,8 @@ layout: page
 title: About
 permalink: /about/
 ---
-
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
-
-You can find the source code for the Jekyll new theme at: [github.com/jglovier/jekyll-new](https://github.com/jglovier/jekyll-new)
-
-You can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
+I'm [John Nadeau](http://johnnadeau.me) and write code for [QueueDr](http://queuedr.com). After nearly four years of working in the .NET stack, I've crossed to the
+_dark side_ and hopped on the train with [Ruby on Rails](http://rubyonrails.org/).
+Off the keyboard you can find me skiing in the winter, hiking in the summer, and 
+acting like I'm committed to training for triathlon year round (I swear I'm getting
+back on track!).
