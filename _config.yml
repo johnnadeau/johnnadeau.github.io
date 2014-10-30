@@ -15,3 +15,6 @@ markdown: kramdown
 
 # Permalinks
 permalink: /:year/:month/:day/:title/
+
+# Pagination
+paginate: 5

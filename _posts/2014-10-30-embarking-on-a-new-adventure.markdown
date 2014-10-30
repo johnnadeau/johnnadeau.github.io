@@ -10,7 +10,7 @@ a way I'd like to(or they never escape my head and disappear). This will be
 the place where I get all those thoughts out and hopefully we can all learn
 something in the process.
 
-# Who am I?
+## Who am I?
 
 I'm [John Nadeau](http://johnnadeau.me) and write code for [QueueDr](http://queuedr.com). After nearly four years of working in the .NET stack, I've crossed to the
 _dark side_ and hopped on the train with [Ruby on Rails](http://rubyonrails.org/).
