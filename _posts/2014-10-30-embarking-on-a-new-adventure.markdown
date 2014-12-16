@@ -3,6 +3,7 @@ layout: post
 title:  "Embarking on a New Adventure"
 date:   2014-10-30 16:25:41
 tags: new job queuedr ruby rails blog 
+comments: true
 ---
 Hi! Welcome to attempt number two at getting a blog going! I always feel like
 my brain is clouded with too many thoughts and I never really get them out in

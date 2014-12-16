@@ -3,6 +3,7 @@ layout: post
 title: "Over Two Months Later"
 date: 2014-12-15 22:30
 tags: co-working queuedr remote
+comments: true
 ---
 I've been working at [QueueDr](http://queuedr.com) for around two months now! Since I'm located in Massachusetts, I've continued
 to work remotely from my home office. While I enjoy kicking it around the house most days, I find myself getting caught up in
