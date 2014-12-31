@@ -1,0 +1,26 @@
+---
+layout: post
+title: "A Look Back at 2014"
+date: 2014-12-30 10:20
+comments: true
+published: false
+---
+This year has been an interesting one. I got engaged, changed [jobs](http://queuedr.com), vacationed in Greece,
+and spent my first full year in our new home. While that all seems like the making of some impossibly wonderful 
+year, it sure had its downfalls as well. I nearly cut off my right index finger, gained back almost all the weight
+I lost in the previous year, and reverted back to my _couch potato_ lifestyle. It's amazing the negative effect
+on my overall mood, drive, and productivity sitting on the couch and eating junk takes. I'm a much better person
+overall when I get up early, exercise, and eat right. 
+
+As cliché as it is, my overall health is the first thing I need to work on next year. It's just too important to
+ignore(and even more so as someone who works remotely). If I'm not energized and feeling good, my code and other 
+work suffers. I already worked on my first step towards that by signing up for a 
+[5k in March](http://smuttynose-palooza.com/), which will just be one of many runs and triathlons I plan on doing 
+next year. Having races scheduled will help give me motivation to get out the door every day and start my day
+the right way.
+
+#TODO: paragraph about reading/learning
+
+#TODO: paragraph about organization/productivity
+
+I wish everyone the best in their adventures in the new year!
