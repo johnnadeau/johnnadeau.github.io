@@ -95,5 +95,5 @@ end
 Now our *numbers* array is validated for uniqueness and that it only includes the values we deem
 valid for our use case. I hope this was helpful for anyone looking to implement a custom validator
 in their rails app. I'm open to suggestions on how to improve the validators, best practices, and
-even naming(I'm not sure inclusive is the correct way to describe that validation). Feel free to
-leave a comment.
+even naming(I'm not sure inclusive is the correct way to describe that validation). Hell, maybe I
+missed out on a way to do this with the built in validators! Feel free to leave a comment.
