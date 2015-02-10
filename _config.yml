@@ -2,7 +2,7 @@
 title: john nadeau
 email: me@johnnadeau.me
 description: > # this means to ignore newlines until "baseurl:"
-  I''m a developer at QueueDr.
+  I'm a developer at QueueDr.
   I mostly blog about my adventures coding,
   but like to talk about my life off the keyboard too.
 baseurl: "" # the subpath of your site, e.g. /blog/
