@@ -1,29 +1,29 @@
 ---
 layout: default
 ---
-
 <div class="home">
   <ul class="post-list">
     {% for post in paginator.posts %}
     <li>
-    <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
-
-    <h2>
-      <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-    </h2>
-    <div class="content">
-      {{ post.content }}
-    </div>
+      <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }} 
+      <a href="{{ post.url }}index.html#disqus_thread" data-disqus-identifier="{{post.url}}"></a>
+      </span>
+      <h2>
+        <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+      </h2>
+      <div class="content">
+        {{ post.content }}
+      </div>
     </li>
     {% endfor %}
   </ul>
   <div class="pagination">
     {% if paginator.previous_page %}
-      <a href="{{ paginator.previous_page_path }}" class="newer">Newer Posts</a>
+    <a href="{{ paginator.previous_page_path }}" class="newer">Newer Posts</a>
     {% endif %}
     {% if paginator.next_page %}
-      <a href="{{ paginator.next_page_path }}" class="older">Older Posts</a>
+    <a href="{{ paginator.next_page_path }}" class="older">Older Posts</a>
     {% endif %}
   </div>
+  {% include comments_count.html %}
 </div>
-
