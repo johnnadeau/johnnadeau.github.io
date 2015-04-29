@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 ![about_image][0]
-I'm [John Nadeau]({{ site.url }}) and I write code for [QueueDr][1] After
+I'm [John Nadeau]({{ site.url }}) and I write code for [QueueDr][1]. After
 nearly four years of working in the .NET stack, I've moved on and hopped on the
 train with [Ruby on Rails][2]. Off the keyboard you can find me skiing in the
 winter, hiking in the summer, and acting like I'm committed to training for
