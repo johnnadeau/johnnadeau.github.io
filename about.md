@@ -18,7 +18,7 @@ some of my code on [github][4].
 represent my employer’s view in any way(but, you probably assumed that
 anyways).*
 
-[0]: {{ site.url }}/assets/about.jpg "required goofy photo..."
+[0]: {{ site.baseurl }}/assets/john.jpg "required goofy photo..."
 [1]: https://queuedr.com "QueueDr"
 [2]: http://rubyonrails.org
 [3]: https://twitter.com/{{ site.twitter_username }}
