@@ -16,5 +16,8 @@ markdown: kramdown
 # Permalinks
 permalink: /:year/:month/:day/:title/
 
+# Plugins
+gems: [jekyll-paginate]
+
 # Pagination
 paginate: 3
